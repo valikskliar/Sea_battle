@@ -1,0 +1,2 @@
+D:\с++\Sea_battle\Debug\Sea_battle.exe
+D:\с++\Sea_battle\Debug\Sea_battle.pdb

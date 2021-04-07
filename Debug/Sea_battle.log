@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\с++\Sea_battle\Source.cpp(26,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Sea_battle.vcxproj -> D:\с++\Sea_battle\Debug\Sea_battle.exe
